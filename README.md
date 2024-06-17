@@ -16,7 +16,7 @@ Connect with me
   
   [![Linkedin Badge](https://img.shields.io/badge/-lorenzomancini13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzomancini13/)](https://www.linkedin.com/in/lorenzomancini13/)
   [![Gmail Badge](https://img.shields.io/badge/-info.lorenzomancini-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info.lorenzomancini@gmail.com)](mailto:info.lorenzomancini@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/-mancini_lorenzo-405DE6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mancini_lorenzo/)]([mailto:info.lorenzomancini@gmail.com](https://www.instagram.com/mancini_lorenzo/))
+  [![Instagram Badge](https://img.shields.io/badge/-mancini_lorenzo-405DE6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mancini_lorenzo/)](https://www.instagram.com/mancini_lorenzo/))
 </div>
 
 ## Quick stats about me
