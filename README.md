@@ -1,22 +1,28 @@
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center"> Hello! I'm Lorenzo Mancini
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 Hi, I'm @ManciniLorenzo and currently I'm a student
-- 👀 I'm interested in tech innovation and IT project management
-- 🌱 I'm currently studying Computer Engineering at University of Padua
-- 📫 How to reach me: email or social media
+<div align="center">
+👀 I'm interested in tech innovation and IT project management <br>
+🌱 I'm currently studying Computer Engineering at University of Padua  <br>
+📫 How to reach me: email or social media 
+</div>
 
-## Connect with me
-<a href="https://linkedin.com/in/lorenzomancini13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lorenzomancini13" height="30" width="40" /></a>
-<a href="https://instagram.com/mancini_lorenzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mancini_lorenzo" height="30" width="40" /></a>
+<h2 align="center">
+Connect with me
+</h2>
 
-## Languages and Tools
-<a href="https://github.com/ManciniLorenzo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManciniLorenzo&show_icons=true&layout=compact" alt="ManciniLorenzo" />
-</a>
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-lorenzomancini13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzomancini13/)](https://www.linkedin.com/in/lorenzomancini13/)
+  [![Gmail Badge](https://img.shields.io/badge/-info.lorenzomancini-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info.lorenzomancini@gmail.com)](mailto:info.lorenzomancini@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/-mancini_lorenzo-405DE6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mancini_lorenzo/)]([mailto:info.lorenzomancini@gmail.com](https://www.instagram.com/mancini_lorenzo/))
+</div>
 
+## Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Lorenzo Mancini's github stats](https://github-readme-stats.vercel.app/api?username=ManciniLorenzo&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Lorenzo Mancini's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManciniLorenzo&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 <h1>Check out my repos!🔥</h1>
 
