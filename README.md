@@ -8,6 +8,8 @@
 📫 How to reach me: email or social media 
 </div>
 
+<h1>Check out my repos!🔥</h1>
+
 ## Keep in touch
 
 <div>
@@ -21,5 +23,3 @@
 
 ## Some stats
 ![Metrics](https://github.com/ManciniLorenzo/ManciniLorenzo/blob/main/github-metrics.svg)
-
-<h1>Check out my repos!🔥</h1>
