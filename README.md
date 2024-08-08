@@ -2,13 +2,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
+<div>
 👀 I'm interested in tech innovation and IT project management <br>
 🌱 I'm currently studying Computer Engineering at University of Padua  <br>
 📫 How to reach me: email or social media 
 </div>
 
-<h1>Check out my repos!🔥</h1>
+## Check out my repos!🔥
 
 ## Keep in touch
 
