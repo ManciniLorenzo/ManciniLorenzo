@@ -8,35 +8,18 @@
 📫 How to reach me: email or social media 
 </div>
 
-<h2 align="center">
-Connect with me
-</h2>
+## Keep in touch
 
-<div align="center">
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-lorenzomancini13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzomancini13/)](https://www.linkedin.com/in/lorenzomancini13/)
-  [![Gmail Badge](https://img.shields.io/badge/-info.lorenzomancini-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info.lorenzomancini@gmail.com)](mailto:info.lorenzomancini@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/-mancini_lorenzo-405DE6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mancini_lorenzo/)](https://www.instagram.com/mancini_lorenzo/)
+<div>
+  <a href="https://www.linkedin.com/in/lorenzomancini13/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
+  </a>
+  <a href="https://x.com/mancinilorenzoo">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="max-width: 100%;">
+  </a>
 </div>
 
-## Quick stats about me
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Lorenzo Mancini's github stats](https://github-readme-stats.vercel.app/api?username=ManciniLorenzo&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Lorenzo Mancini's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManciniLorenzo&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+## Some stats
+![Metrics](https://github.com/ManciniLorenzo/ManciniLorenzo/blob/main/github-metrics.svg)
 
 <h1>Check out my repos!🔥</h1>
-
-<!--
-**ManciniLorenzo/ManciniLorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
