@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! I'm Lorenzo Mancini
+<h1> Hello! I'm Lorenzo Mancini
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
